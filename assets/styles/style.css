@@ -1,0 +1,9 @@
+header{
+    background-image: url("../images/home-books.png");
+}
+
+header nav ul li{
+    display:inline-block ;
+    list-style-type:none;
+    /*text-decoration:none;*/
+}
